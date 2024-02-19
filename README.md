@@ -4,6 +4,7 @@ http://localhost:8080/send?message=orange
 Group id name - testJava
 
 Steps: Go in bin/windows folder
+
 1 Start Zookeeper 
 zookeeper-server-start.bat ..\..\config\zookeeper.properties
 
